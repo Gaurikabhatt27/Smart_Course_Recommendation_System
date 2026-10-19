@@ -1,0 +1,13 @@
+# Core Database Driver
+pymongo>=4.6.0,<5.0.0
+
+# User Interface and Visualization
+streamlit>=1.30.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+plotly>=5.18.0,<6.0.0
+
+# Environment Configuration
+python-dotenv>=1.0.0,<2.0.0
+
+# Testing Framework
+pytest>=7.4.0,<9.0.0
